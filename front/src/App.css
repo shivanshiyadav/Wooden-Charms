@@ -653,17 +653,6 @@ background-image: url(https://static.vecteezy.com/system/resources/previews/006/
   font-size: larger;
 }
 
-@media (min-width: 400px) {
-  .hero-form-submit {
-    margin-top: 0;
-  }
-}
-.mySwiper > .SwiperSlide > img {
-  
-  height: 512px;
-  width: 512px;
-}
-/* Googlefont Poppins CDN Link */
 
 .sidebar{
   position: fixed;
@@ -701,7 +690,7 @@ background-image: url(https://static.vecteezy.com/system/resources/previews/006/
   position: relative;
   list-style: none;
   height: 50px;
-}
+} 
 .sidebar .nav-links li a{
   height: 100%;
   width: 100%;

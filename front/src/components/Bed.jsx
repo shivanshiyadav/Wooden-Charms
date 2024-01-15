@@ -12,30 +12,7 @@ const Bed = () => {
 
     <div>
 
-      <Swiper autoplay={{delay: 2500, disableOnInteraction: false,}} navigation={true} modules={[Navigation, Autoplay]} 
-              className="mySwiper">
-
-        <SwiperSlide><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8NQf43dMrWIko9e_Uq4eZa2RiLJu2uKqr3-M3AQ5Qw&s" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://www.decorilla.com/online-decorating/wp-content/uploads/2022/01/Classic-tufted-headboard-design-by-decorilla-designer-courtney-b.jpeg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://image.made-in-china.com/2f0j00CzfqkuWgCbcA/Luxury-Wooden-Frame-Panels-Upholstered-Fabric-Headboard-Bed-Box-Modern-King-Size-Hotel-Furniture-Bedroom-Bed.webp" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://goodhomes.wwmindia.com/content/2023/mar/bed-sources-unlimited1680005553.jpg" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://static.asianpaints.com/content/dam/asianpaintsbeautifulhomes/spaces/bedrooms/quirky-headboard-ideas-for-your-bedroom/modern-headboard-design-with-pop.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="https://static.asianpaints.com/content/dam/asianpaintsbeautifulhomes/spaces/bedrooms/quirky-headboard-ideas-for-your-bedroom/bed-head-design-with-tufted-upholstery.png" alt="" /></SwiperSlide>
-
-      </Swiper>
-
-      <input type="radio" id="controls" name="type" value="controls" />
-      <label for="controls">Controls</label><input type="radio" id="indicators" name="type" value="indicators" />
-      <label for="indicators">Indicators</label>
-      <input type="radio" id="autoplay" name="type" value="autoplay" checked />
-      <label for="autoplay">Autoplay</label>
-
-
-      <input type="radio" id="option-1" name="slider" value="option-1" checked />
-      <input type="radio" id="option-2" name="slider" value="option-2" />
-      <input type="radio" id="option-3" name="slider" value="option-3" />
-      <input type="radio" id="option-4" name="slider" value="option-4" />
-      <input type="radio" id="option-5" name="slider" value="option-5" />
+      
 
       <div className="footer">
         <div className="city-text">
