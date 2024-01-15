@@ -1101,23 +1101,23 @@ nav .profile-details i{
 }
 
 
-.container {
+.containerD {
   position: relative;
   margin: 0px;
   
 }
 
-.container .card {
+.containerD .cardD {
   position: relative;
   width: 420px;
   height: 450px;
   background-color: #582e0a;
   border-radius: 20px;
   overflow: hidden;
-  margin: 20px;
+ 
 }
 
-.container .card:before {
+.containerD .cardD:before {
   content: "";
   position: absolute;
   top: 20;
@@ -1129,11 +1129,11 @@ nav .profile-details i{
   transition: 0.5s ease-in-out;
 }
 
-.container .card:hover:before {
+.containerD .cardD:hover:before {
   clip-path: circle(350px at 80% -20%);
 }
 
-.container .card:after {
+.containerD .cardD:after {
   content: "Wooden charms";
   position: absolute;
   top: 30%;
@@ -1145,7 +1145,7 @@ nav .profile-details i{
 
 }
 
-.container .card .imgBx {
+.containerD .cardD .imgBx {
   position:relative;
   top: 50%;
   transform: translateY(-50%);
@@ -1157,13 +1157,13 @@ nav .profile-details i{
   
 }
 
-.container .card:hover .imgBx {
+.containerD .cardD:hover .imgBx {
   top: 0%;
   transform: translateY(-25%);
   /* bug  */
 }
 
-.container .card .imgBx img {
+.containerD .cardD .imgBx img {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1172,7 +1172,7 @@ nav .profile-details i{
   
 }
 
-.container .card .contentBx {
+.containerD .cardD .contentBx {
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -1182,19 +1182,19 @@ nav .profile-details i{
   z-index: 90;
 }
 
-.container .card:hover .contentBx {
+.containerD .cardD:hover .contentBx {
   height: 210px;
 }
 
-.container .card .contentBx h2 {
+.containerD .cardD .contentBx h2 {
   position: relative;
   font-weight: 600;
   letter-spacing: 1px;
   color: #fff;
 }
 
-.container .card .contentBx .size,
-.container .card .contentBx .color {
+.containerD .cardD .contentBx .size,
+.containerD .cardD .contentBx .color {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1204,20 +1204,20 @@ nav .profile-details i{
   visibility: hidden;
 }
 
-.container .card:hover .contentBx .size {
+.container .cardD:hover .contentBx .size {
   opacity: 1;
   visibility: visible;
   transition-delay: .5s;
 }
 
-.container .card:hover .contentBx .color {
+.containerD .cardD:hover .contentBx .color {
   opacity: 1;
   visibility: visible;
   transition-delay: .6s;
 }
 
-.container .card .contentBx .size h3,
-.container .card .contentBx .color h3 {
+.containerD .cardD .contentBx .size h3,
+.containerD .cardD .contentBx .color h3 {
   color: white;
   font-weight: 300;
   font-size: 14px;
@@ -1226,7 +1226,7 @@ nav .profile-details i{
   margin-right: 10px;
 }
 
-.container .card .contentBx .size span {
+.containerD .cardD .contentBx .size span {
   width: 26px;
   height: 26px;
   text-align: center;
@@ -1242,11 +1242,11 @@ nav .profile-details i{
   cursor: pointer;
 }
 
-.container .card .contentBx .size span:hover {  /* other bug */
+.container .cardD .contentBx .size span:hover {  /* other bug */
   background: #B90000;
 }
 
-.container .card .contentBx .color span {
+.container .cardD .contentBx .color span {
   width: 20px;
   height: 20px;
   background: #ff0;
@@ -1255,19 +1255,19 @@ nav .profile-details i{
   cursor: pointer;
 }
 
-.container .card .contentBx .color span:nth-child(2) {
+.containerD .cardD .contentBx .color span:nth-child(2) {
    background: #5c0202;
 }
 
-.container .card .contentBx .color span:nth-child(3) {
+.containerD .cardD .contentBx .color span:nth-child(3) {
    background: #b4f027;
 }
 
-.container .card .contentBx .color span:nth-child(4) {
+.containerD .cardD .contentBx .color span:nth-child(4) {
    background: #f1a02e;
 }
 
-.container .card .contentBx a {
+.containerD .cardD .contentBx a {
   display: inline-block;
   padding: 10px 20px;
   background: #fff;
@@ -1281,7 +1281,7 @@ nav .profile-details i{
   transition: .5s;
 }
 
-.container .card:hover .contentBx a {
+.containerD .cardD:hover .contentBx a {
   opacity: 1;
   transform: translateY(0px);
   transition-delay: .7s;

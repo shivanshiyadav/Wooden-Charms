@@ -37,7 +37,7 @@ const Navbar = () => {
         <NavLink className='second-nav' to="/bed">Bedroom</NavLink>
         <NavLink className='second-nav' to="/dining">Dinning Set</NavLink>
         <NavLink className='second-nav' to="/Study">Study and Office Furniture</NavLink>
-        <NavLink className='second-nav' to="/contact">Collections</NavLink>
+        {/* <NavLink className='second-nav' to="/contact">Collections</NavLink> */}
         <NavLink className='second-nav' to="/livingnav">Living</NavLink>
         <NavLink className='second-nav' to="/addfurniture">AddFurniture</NavLink>
         
