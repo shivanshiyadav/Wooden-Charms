@@ -1,5 +1,39 @@
 import React from 'react'
 
+  const Furniture = useFormik({
+        initialValues: {
+          name: '',
+          email:'',
+          password: '',
+         
+        },
+        onSubmit: async (values, { resetForm }) => {
+          // alert(JSON.stringify(values));
+        //   values.image = addImage.name;
+          console.log(values);
+    
+          //send req to backend/Rest API
+          const response = await fetch('http://localhost:5000/furniture/add', {
+            method : 'POST',
+            body : JSON.stringify(values),
+            headers : {
+              'Content-Type' : 'application/json'
+            }
+          });
+          console.log(response.status);
+          console.log(response.statusText);
+    
+          if (response.status === 200) {
+            enqueueSnackbar('Successfully Added', {variant: 'success'});
+          }else{
+            enqueueSnackbar('Something Went Wrong', {variant: 'error'});
+          }
+          // resetForm();
+          // toast.success('Form Submitted Successfully');
+    
+        },
+       
+      });
 
 
 const Signin = () => {

@@ -3,16 +3,7 @@ import React from 'react'
 const Livingnav = () => {
   return (
     <div >
-        {/* <div className="vid">
-<ul class="slideshow">
-  <li><span></span></li>
-  <li><span>2</span></li>
-  <li><span></span></li>
-  <li><span></span></li>
-  <li><span></span></li>
-</ul>                          
-                                                                                                                  
-</div> */}
+        
          <div className="row m-0">
         
         <div className='col-md-4  '>
