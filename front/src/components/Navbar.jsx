@@ -28,7 +28,6 @@ const Navbar = () => {
             <div className="icon"><img width="30" height="30" src="https://img.icons8.com/ios/50/shopping-cart.png" alt="shopping-cart" /></div><a className='mt-50' href="#">Cart</a></li>
 
         </ul>
-
       </div>
       <hr />
       <div class="topnav">
@@ -37,7 +36,7 @@ const Navbar = () => {
         <NavLink className='second-nav' to="/bed">Bedroom</NavLink>
         <NavLink className='second-nav' to="/dining">Dinning Set</NavLink>
         <NavLink className='second-nav' to="/Study">Study and Office Furniture</NavLink>
-        {/* <NavLink className='second-nav' to="/contact">Collections</NavLink> */}
+        
         <NavLink className='second-nav' to="/livingnav">Living</NavLink>
         <NavLink className='second-nav' to="/addfurniture">AddFurniture</NavLink>
         

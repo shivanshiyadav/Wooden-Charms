@@ -13,7 +13,7 @@ import Login from './components/login';
 import Diningset from './components/Diningset';
 import Study from './components/study';
 import AddFurniture from './components/AddFurniture';
-
+import'./App.css';
 
 const App = () => {
   return (

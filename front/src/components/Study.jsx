@@ -8,11 +8,16 @@ const Study = () => {
         <div className="row m-0">
        
        <div className='col-md-4  h-100 '>
-<div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/10436.jpg" alt="" />
+<div className="card  h-100">
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/151271668594451.jpg?tr=w-439,pr-true,f-auto" alt="" />
 <div className="card-body">
    <p>Tampa Center Table</p>
    <h5>MRP ₹ 1,490 </h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -21,11 +26,16 @@ const Study = () => {
 </div>
        </div> 
        <div className='col-md-4 h-100'>
-<div className="card ">
-<img src="https://damroimages.blob.core.windows.net/damroimages/9499.jpg" alt="" />
+<div className="card  h-100 ">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNLSOgYGNP7lmRtALUgQEK1XebgfxPOBDuQ&usqp=CAU" alt="" />
 <div className="card-body">
    <p>Tampa Shoe Rack</p>
    <h5>MRP ₹ 2,790 </h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -34,11 +44,15 @@ const Study = () => {
 </div>
        </div>
        <div className='col-md-4 h-100'>
-<div className="card ">
-<img src="https://damroimages.blob.core.windows.net/damroimages/9499.jpg" alt="" />
+<div className="card  h-100">
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/product_2022100611261665055588_40800.jpg?tr=w-439,pr-true,f-auto" alt="" />
 <div className="card-body">
    <p>Tampa Shoe Rack</p>
    <h5>MRP ₹ 2,790 </h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -49,11 +63,16 @@ const Study = () => {
        
        
        <div className='col-md-4 h-100'>
-<div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/8920.jpg" alt="" />
+<div className="card  h-100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLy6fAd6wLJXFsO5yIou3rCBJ7aQ2A0Fls2to8l6jw4Cy8ktNL7AnuolBfA4TCZmMI8qk&usqp=CAU" alt="" />
 <div className="card-body">
    <p>Prxomia sofa set 2+3 seater</p>
    <h5>MRP ₹ 44,390   <span className='cut'><h6>54,300</h6></span><span className='red-text'>(32% off)</span></h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -62,11 +81,16 @@ const Study = () => {
 </div>
        </div>
        <div className='col-md-4 h-100'>
-<div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/2451.jpg" alt="" />
+<div className="card  h-100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw2jTvmSuxZbv59sbM7k83kRVdU3BTZIjBkg&usqp=CAU" alt="" />
 <div className="card-body">
    <p>Audio Video Rack</p>
-   <h5>MRP ₹ 5,590 </h5>
+   <h5>MRP ₹ 5,590 <span className='cut'><h6>54,300</h6></span><span className='red-text'>(32% off)</span> </h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -77,12 +101,16 @@ const Study = () => {
 
 <div className='col-md-4 h-100'>
 
-<div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/9755.jpg" alt="" />
+<div className="card  h-100">
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/511689680814.jpg?tr=w-439,pr-true,f-auto" alt="" />
 <div className="card-body">
    <p>SpiffyCupboard with 2 half glass Doors</p>
    <h5>MRP ₹ 11,190 <span className='cut'><h6>₹18,890</h6></span><span className='red-text'>(26% off)</span> </h5>
-
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -91,12 +119,16 @@ const Study = () => {
 </div>
 <div className='col-md-4 h-100'>
 
-<div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/9755.jpg" alt="" />
+<div className="card  h-100">
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/465331683624061.jpg?tr=w-439,pr-true,f-auto" alt="" />
 <div className="card-body">
    <p>SpiffyCupboard with 2 half glass Doors</p>
    <h5>MRP ₹ 11,190 <span className='cut'><h6>₹18,890</h6></span><span className='red-text'>(26% off)</span> </h5>
-
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -104,11 +136,16 @@ const Study = () => {
 </div>
 </div>
 <div className='col-md-4 h-100'>
-<div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/2906.jpg" alt="" />
+<div className="card  h-100">
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/419571668593520.jpg?tr=w-439,pr-true,f-auto" alt="" />
 <div className="card-body">
    <p>Audio Video Rack</p>
    <h5>MRP ₹ 2,990 <span className='cut'><h6>₹6,000</h6></span><span className='red-text'>(40% off)</span></h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className=' button-green'>Avaiable Online</button>
@@ -118,11 +155,16 @@ const Study = () => {
 </div>
        </div>
 <div className='col-md-4 h-100'>
-<div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/10480.jpg" alt="" />
+<div className="card  h-100">
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/934741668590796.jpg?tr=w-439,pr-true,f-auto" alt="" />
 <div className="card-body">
    <p> VidEmerson Queen Bed</p>
    <h5>MRP ₹ 32,990 <span className='cut'><h6>₹6,000</h6></span><span className='red-text'>(40% off)</span></h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
    <div className="like">
    <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className=' button-green'>Avaiable Online</button>

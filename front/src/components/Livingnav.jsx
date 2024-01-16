@@ -12,6 +12,11 @@ const Livingnav = () => {
 <div className="card-body">
     <p>Tampa Center Table</p>
     <h5>MRP ₹ 1,490 </h5>
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
     <div className="like">
     <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -25,6 +30,11 @@ const Livingnav = () => {
 <div className="card-body">
     <p>Tampa Shoe Rack</p>
     <h5>MRP ₹ 2,790 </h5>
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
     <div className="like">
     <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -38,6 +48,11 @@ const Livingnav = () => {
 <div className="card-body">
     <p>Tampa Writing Table</p>
     <h5>MRP ₹ 4,100 <span className='red-text'>(21% off)</span></h5>
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
     <div className="like">
     <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -47,10 +62,16 @@ const Livingnav = () => {
         </div>
         <div className='col-md-4'>
 <div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/8920.jpg" alt="" />
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/121911698729830.jpg?tr=w-277,pr-true,f-auto" alt="" />
 <div className="card-body">
     <p>Prxomia sofa set 2+3 seater</p>
+
     <h5>MRP ₹ 44,390   <span className='cut'><h6>54,300</h6></span><span className='red-text'>(32% off)</span></h5>
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
     <div className="like">
     <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -60,10 +81,14 @@ const Livingnav = () => {
         </div>
         <div className='col-md-4'>
 <div className="card">
-<img src="https://damroimages.blob.core.windows.net/damroimages/2451.jpg" alt="" />
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/961751702537709.jpg?tr=w-277,pr-true,f-auto" alt="" />
 <div className="card-body">
     <p>Audio Video Rack</p>
     <h5>MRP ₹ 5,590 </h5>
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
     <div className="like">
     <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -73,11 +98,14 @@ const Livingnav = () => {
 </div>
 <div className='col-md-4'>
 <div className="card">
-<img src="https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjM1NmIzYTVjMjkyNmE3ZDE0MDg5MmU0LWEtYmVhdXRpZnVsLWhpZ2gtcXVhbGl0eS1saXZpbmctcm9vbS5qcGc.jpg" alt="" />
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/15431704521891.jpg?tr=w-277,pr-true,f-auto" alt="" />
 <div className="card-body">
     <p>Milli Study Table with Drawer and Cupboard</p>
     <h5>MRP ₹ 9,990 <span className='cut'><h6>₹16,890</h6></span><span className='red-text'>(22% off)</span></h5>
-
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
     <div className="like">
     <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -91,7 +119,10 @@ const Livingnav = () => {
 <div className="card-body">
     <p>SpiffyCupboard with 2 half glass Doors</p>
     <h5>MRP ₹ 11,190 <span className='cut'><h6>₹18,890</h6></span><span className='red-text'>(26% off)</span> </h5>
-
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
     <div className="like">
     <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className='button-green'>Avaiable Online</button>
@@ -104,6 +135,10 @@ const Livingnav = () => {
 <div className="card-body">
     <p>Audio Video Rack</p>
     <h5>MRP ₹ 2,990 <span className='cut'><h6>₹6,000</h6></span><span className='red-text'>(40% off)</span></h5>
+    <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
     <div className="like">
     <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
 <button className=' button-green'>Avaiable Online</button>
