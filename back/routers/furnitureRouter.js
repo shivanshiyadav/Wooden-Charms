@@ -4,7 +4,7 @@ const Model = require('../Models/furnitureModel')
 const router = express.Router();
 
 router.post('/add', (req, res) => {
-
+   
     console.log(req.body);
 
     new Model(req.body).save()
