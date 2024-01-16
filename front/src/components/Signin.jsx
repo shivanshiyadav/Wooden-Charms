@@ -1,6 +1,7 @@
 import { useFormik } from 'formik';
 import { enqueueSnackbar } from 'notistack';
 import React from 'react'
+import { useNavigate } from 'react-router-dom';
 // import toast from 'react-hot-toast';
 import * as Yup from 'yup';
 
@@ -24,6 +25,8 @@ const SigninSchema = Yup.object().shape({
 });
 
 const Signin = () => {
+
+  const navigate = useNavigate();
 
   const signinForm = useFormik({
     initialValues: {
@@ -50,6 +53,7 @@ const Signin = () => {
 
       if (response.status === 200) {
         enqueueSnackbar('Registered Successfully', {variant: 'success'});
+        navigate('/login');
       }else{
         enqueueSnackbar('Something Went Wrong', {variant: 'error'});
       }
@@ -67,15 +71,7 @@ const Signin = () => {
     <div style={{ fontFamily: 'Montserrat' }}>
       <div className='container text-start '>
         <div className='row ' >
-          {/* <div className='col d-flex align-items-center justify-content-center' style={{backgroundColor: '#391b7f', color: 'white'}}>
-            <div className='card display-1 border-0 '>
-              <div className='card-body text-white' style={{backgroundColor: '#391b7f', }}>
-                Welcome
-                <br />
-                Back !!
-              </div>
-            </div>
-          </div> */}
+          
           <div className="col-md-6 bg-">
             <img className='h-75 w-75' src="/download.jpg" />
 

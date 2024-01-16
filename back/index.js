@@ -20,7 +20,7 @@ app.use( '/furniture', FurnitureRouter );
 app.use( '/utils', UtilRouter );
 app.use( '/feedback', FeedbackRouter );
 
-app.use(express.static('./statics/uploads'));
+app.use(express.static('./uploads'));
 
 // route
 app.get('/', (req, res) => {
@@ -46,9 +46,5 @@ app.get('/update', (req, res) => {
 app.get('/delete', (req, res) => {
     res.send('Response From Delete Route')
 });
-
-
-
-
 
 app.listen(port, () => {console.log('Server Started..!!');});

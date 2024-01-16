@@ -1,6 +1,5 @@
 const express = require('express');
-// const Model = require('../models/userModel');
-const { model } = require('mongoose');
+const Model = require('../Models/userModel');
 
 // creating a router
 const router = express.Router();
@@ -88,7 +87,7 @@ router.delete('/delete/:id', (req, res) => {
 });
 
 router.post("/authenticate",(req,res)=>{
-    model.findOne(req.body)
+    Model.findOne(req.body)
     .then((result)=>{
         if(result)res.json(result);
         else res.status(401).json({message : 'Login Failed'})

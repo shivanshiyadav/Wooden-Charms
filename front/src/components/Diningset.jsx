@@ -184,6 +184,58 @@ const Diningset = () => {
                 </div>
 
             </div> */}
+           
+        <div className="col-md-4 m-5">
+      <div id="carouselExampleDark" className="carousel carousel-dark slide">
+  <div className="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
+  </div>
+  <div className="carousel-inner">
+    <div className="carousel-item active" data-bs-interval="10000">
+      <img src="https://m.media-amazon.com/images/I/61sK6Jj6oEL._AC_UL480_FMwebp_QL65_.jpg" class="d-block w-100" alt="..."/>
+      <div className="carousel-caption d-none d-md-block">
+        
+      </div>
+    </div>
+    <div className="carousel-item" data-bs-interval="2000">
+      <img src="https://m.media-amazon.com/images/I/71iZYt47VQL._AC_UL480_FMwebp_QL65_.jpghttps://m.media-amazon.com/images/I/81uS5KAUMWL._AC_UL480_FMwebp_QL65_.jpg" class="d-block w-100" alt="..."/>
+      <div className="carousel-caption d-none d-md-block">
+       
+      </div>
+    </div>
+    <div className="carousel-item" data-bs-interval="2000">
+      <img src="https://m.media-amazon.com/images/I/81rU-eo3noL._AC_UL480_FMwebp_QL65_.jpg" class="d-block w-100" alt="..."/>
+      <div className="carousel-caption d-none d-md-block">
+        
+      </div>
+    </div>
+    <div className="carousel-item" data-bs-interval="2000">
+      <img src="https://m.media-amazon.com/images/I/713Vn9Fh4IL._AC_UL480_FMwebp_QL65_.jpg" class="d-block w-100" alt="..."/>
+      <div className="carousel-caption d-none d-md-block">
+        
+      </div>
+    </div>
+    <div className="carousel-item">
+      <img src="https://m.media-amazon.com/images/I/713NSlTl-uL._AC_UL480_FMwebp_QL65_.jpg" class="d-block w-100" alt="..."/>
+      <div className="carousel-caption d-none d-md-block">
+        
+      </div>
+    </div>
+  </div>
+  <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span className="visually-hidden">Previous</span>
+  </button>
+  <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+    <span className="carousel-control-next-icon" aria-hidden="true"></span>
+    <span className="visually-hidden">Next</span>
+  </button>
+</div>
+</div >
 
             <div className="footer">
                 <div className="city-text">
