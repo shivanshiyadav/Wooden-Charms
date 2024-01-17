@@ -79,17 +79,9 @@ const AddFurniture = () => {
 
               </div>
             </div>
-            {/* <div className="col">
-      <div data-mdb-input-init="" className="formH">
-      <label className="form-label" htmlFor="form3Example2">
-          Last name
-        </label>
-        <input type="text" id="form3Example2" className="form-control" />
-      
-      </div>
-    </div> */}
+           
           </div>
-          {/* Email input */}
+          
           <div data-mdb-input-init="" className="form mb-4">
             <label className="form-label" htmlFor="form3Example3">
               Description
@@ -128,20 +120,7 @@ const AddFurniture = () => {
             <input type="file" id="form3Example4" className="form-control" onChange={uploadimage} />
 
           </div>
-          {/* Checkbox */}
-          {/* <div className="form-check d-flex justify-content-center mb-4">
-    <input
-      className="form-check-input me-2"
-      type="checkbox"
-      defaultValue=""
-      id="form2Example33"
-      defaultChecked=""
-    />
-    <label className="form-check-label" htmlFor="form2Example33">
-      Subscribe to our newsletter
-    </label>
-  </div> */}
-          {/* Submit button */}
+         
           <div className="text-center">
             <button
               data-mdb-ripple-init=""
@@ -151,38 +130,7 @@ const AddFurniture = () => {
               Submit
             </button>
           </div>
-          {/* Register buttons */}
-          {/* <div className="text-center">
-    <p>or sign up with:</p>
-    <button
-      data-mdb-ripple-init=""
-      type="button"
-      className="btn btn-secondary btn-floating mx-1"
-    >
-      <i className="fab fa-facebook-f" />
-    </button>
-    <button
-      data-mdb-ripple-init=""
-      type="button"
-      className="btn btn-secondary btn-floating mx-1"
-    >
-      <i className="fab fa-google" />
-    </button>
-    <button
-      data-mdb-ripple-init=""
-      type="button"
-      className="btn btn-secondary btn-floating mx-1"
-    >
-      <i className="fab fa-twitter" />
-    </button>
-    <button
-      data-mdb-ripple-init=""
-      type="button"
-      className="btn btn-secondary btn-floating mx-1"
-    >
-      <i className="fab fa-github" />
-    </button>
-  </div> */}
+          
         </form>
       </div>
 

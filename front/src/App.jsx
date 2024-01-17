@@ -9,7 +9,7 @@ import Navoffer from './components/Navoffer';
 import Trackorder from './components/Trackorder';
 import Livingnav from './components/Livingnav';
 import Bed from './components/Bed';
-import Login from './components/login';
+import Login from './components/Login';
 import Diningset from './components/Diningset';
 import Study from './components/study';
 import AddFurniture from './components/AddFurniture';
@@ -38,9 +38,6 @@ const App = () => {
         <Route path= 'addfurniture' element= {<AddFurniture/> }/>
        
       
-        
-       
-      
         </Routes>
         </BrowserRouter>
       </SnackbarProvider>
@@ -48,4 +45,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
