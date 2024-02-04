@@ -2,190 +2,11 @@ import React from 'react'
 // import range from './range';
 const Diningset = () => {
     return (
-
-        <div style={{ zIndex: -10 }}>
-            {/* <div className="containerD">
-                <div className="row">
-                    <div className="col-md-2">
-
-                    </div>
-                    <div className="col-md-10">
-
-                        <div className="row">
-                            <div className="col-md-4 m-5">
-                                <div className="cardD">
-
-                                    <div className="imgBx">
-                                        <img src="https://lmsin.net/cdn-cgi/image/h=750,w=750,q=85,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/homecentre/1000012959925-1000012959925-0709_01-2100.jpg"/></div>
-
-                                    <div className="contentBx">
-
-                                        <h2>5 Seater Dining Table</h2>
-
-                                        <div className="size">
-                                            <h3>Size :</h3>
-                                            <span>90'</span>
-                                            <span>72'</span>
-                                            <span>21'</span>
-
-                                        </div>
-
-                                        <div className="color">
-
-                                            <h3>Color :</h3>
-                                            <span></span>
-                                            <span></span>
-                                            <span></span>
-                                        </div>
-                                        <a href="#">Buy Now</a>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div className="col-md-4 m-5">
-                                <div className="cardD">
-
-                                    <div className="imgBx">
-                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCAacGFKbmonSaJiisrQD031pv21_HxV6UsQ&usqp=CAU" alt="" /> </div>
-
-                                    <div className="contentBx">
-
-                                        <h2>5 Seater Dining Table</h2>
-
-                                        <div className="size">
-                                            <h3>Size :</h3>
-                                            <span>90'</span>
-                                            <span>72'</span>
-                                            <span>21'</span>
-
-                                        </div>
-
-                                        <div className="color">
-
-                                            <h3>Color :</h3>
-                                            <span></span>
-                                            <span></span>
-                                            <span></span>
-                                        </div>
-                                        <a href="#">Buy Now</a>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div className="col-md-4 m-5">
-
-                            </div>
-                            <div className="col-md-4 m-5">
-
-                            </div>
-                            <div className="col-md-4 m-5">
-
-                            </div>
-                            <div className="col-md-4 m-5">
-
-                            </div>
-                            <div className="col-md-4 m-5">
-
-                            </div>
-                            <div className="col-md-4 m-5">
-
-                            </div>
-                        </div>
-
-
-
-                        <div className="cardD">
-
-                            <div className="imgBx">
-                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCAacGFKbmonSaJiisrQD031pv21_HxV6UsQ&usqp=CAU" alt="" />
-                            </div>
-
-                            <div className="contentBx">
-
-                                <h2>5 Seater Dining Table</h2>
-
-                                <div className="size">
-                                    <h3>Size :</h3>
-                                    <span>90'</span>
-                                    <span>72'</span>
-                                    <span>21'</span>
-
-                                </div>
-
-                                <div className="color">
-
-                                    <h3>Color :</h3>
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                </div>
-                                <a href="#">Buy Now</a>
-                            </div>
-
-                        </div>
-                        <div className="cardD">
-
-                            <div className="imgBx">
-                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSYktdFRZAf-V9_IezvbNwXK3NpmSORW1Jg&usqp=CAU" alt="" /> </div>
-
-                            <div className="contentBx">
-
-                                <h2>5 Seater Dining Table</h2>
-
-                                <div className="size">
-                                    <h3>Size :</h3>
-                                    <span>90'</span>
-                                    <span>72'</span>
-                                    <span>21'</span>
-
-                                </div>
-
-                                <div className="color">
-
-                                    <h3>Color :</h3>
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                </div>
-                                <a href="#">Buy Now</a>
-                            </div>
-
-                        </div>
-                        <div className="cardD">
-
-                            <div className="imgBx">
-                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSYktdFRZAf-V9_IezvbNwXK3NpmSORW1Jg&usqp=CAU" alt="" /> </div>
-
-                            <div className="contentBx">
-
-                                <h2>5 Seater Dining Table</h2>
-
-                                <div className="size">
-                                    <h3>Size :</h3>
-                                    <span>90'</span>
-                                    <span>72'</span>
-                                    <span>21'</span>
-
-                                </div>
-
-                                <div className="color">
-
-                                    <h3>Color :</h3>
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                </div>
-                                <a href="#">Buy Now</a>
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div>
-
-            </div> */}
+<div>
+        <div className='row'>
+            
            
-        <div className="col-md-4 m-5">
+        <div className="col-md-6 ">
       <div id="carouselExampleDark" className="carousel carousel-dark slide">
   <div className="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -236,6 +57,82 @@ const Diningset = () => {
   </button>
 </div>
 </div >
+<div className="col-md-6">
+<div className='col md-3'>
+<div className="card ">
+<img src="https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/151271668594451.jpg?tr=w-439,pr-true,f-auto" alt="" />
+<div className="card-body">
+   <p>Tampa Center Table</p>
+   <h5>MRP ₹ 1,490 </h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star-half-empty.png" alt="star-half-empty"/>
+   <div className="like">
+   <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
+<button className='button-green'>Avaiable Online</button>
+</div>
+</div>
+</div>
+       </div> 
+       <div className='col-md-3'>
+<div className="card  ">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNLSOgYGNP7lmRtALUgQEK1XebgfxPOBDuQ&usqp=CAU" alt="" />
+<div className="card-body">
+   <p>Tampa Shoe Rack</p>
+   <h5>MRP ₹ 2,790 </h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+
+   <div className="like">
+   <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
+<button className='button-green'>Avaiable Online</button>
+</div>
+</div>
+</div>
+       </div>
+       <div className='col-md-4'>
+<div className="card">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNLSOgYGNP7lmRtALUgQEK1XebgfxPOBDuQ&usqp=CAU" alt="" />
+<div className="card-body">
+   <p>Tampa Shoe Rack</p>
+   <h5>MRP ₹ 2,790 </h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+
+   <div className="like">
+   <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
+<button className='button-green'>Avaiable Online</button>
+</div>
+</div>
+</div>
+       </div>
+       <div className='col-md-4'>
+<div className="card ">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNLSOgYGNP7lmRtALUgQEK1XebgfxPOBDuQ&usqp=CAU" alt="" />
+<div className="card-body">
+   <p>Tampa Shoe Rack</p>
+   <h5>MRP ₹ 2,790 </h5>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+   <img width="20" height="20" src="https://img.icons8.com/fluency/48/star--v1.png" alt="star--v1"/>
+
+   <div className="like">
+   <img className="heart" width="30" height="30" src="https://img.icons8.com/ios-filled/50/FA5252/like--v1.png" alt="like--v1"/>
+<button className='button-green'>Avaiable Online</button>
+</div>
+</div>
+</div>
+       </div>
+
+</div>
+</div>
 
             <div className="footer">
                 <div className="city-text">
@@ -348,7 +245,9 @@ const Diningset = () => {
                 </div>
 
             </div>
+        
         </div>
+
 
     )
 }
